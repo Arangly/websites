@@ -23,6 +23,18 @@ https://playground.play.ht    Generate AI Speech
 
 https://github.com/Yidadaa/ChatGPT-Next-Web   ChatGPT Next Web 一键部署 ChatGPT 网页应用
 
+https://github.com/torantulino/auto-gpt   AutoGPT-AgentGPT，可以实现完全自主实现任务
+
+https://agentgpt.reworkd.ai/    AgentGPT项目
+
+https://github.com/reworkd/AgentGPT   🤖 Assemble, configure, and deploy autonomous AI Agents in your browser
+
+https://wechaty.js.org/   Wechaty
+
+https://wechaty.readthedocs.io/zh_CN/latest/    python-wechaty
+
+
+
 
 
 
