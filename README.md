@@ -1,2 +1,2 @@
 # websites
-web site collection
+https://github.com/lencx/ChatGPT
