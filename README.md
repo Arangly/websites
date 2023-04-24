@@ -3,8 +3,10 @@
 |:-----------|:----------------------------------------|:----------------------------------------------------|
 |            |[https://chat.openai.com](https://chat.openai.com)        |ChatGPT|
 |            |https://slack.com/intl/zh-cn/        |ChatGPT Desktop Application (Mac, Windows and Linux)|
+|            |https://poe.com/|POE Chat GPT|
 |            |https://flowgpt.com/|Flow GPT Prompt Hack|
 |            |https://chat.forefront.ai/|Chat ForeFront AI|
+|            |https://www.typeform.com/|Type Form|
 |            |https://github.com/lencx/ChatGPT        |ChatGPT Desktop Application (Mac, Windows and Linux)|
 |            |https://github.com/suno-ai/bark         |🔊 Text-Prompted Generative Audio Model|
 |            |https://github.com/Wechaty/wechaty      |Conversational RPA SDK for Chatbot Makers|
