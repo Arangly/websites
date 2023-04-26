@@ -24,6 +24,8 @@
 |            |https://github.com/reworkd/AgentGPT   |🤖 Assemble, configure, and deploy autonomous AI Agents in your browser|
 |            |https://wechaty.js.org/   |Wechaty|
 |            |https://wechaty.readthedocs.io/zh_CN/latest/    |python-wechaty|
+|            |https://github.com/wechaty   |Wechaty |
+|            |https://github.com/padlocal   |Pad Local |
 
 
 
