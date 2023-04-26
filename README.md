@@ -7,6 +7,7 @@
 |            |https://flowgpt.com/|Flow GPT Prompt Hack|
 |            |https://chat.forefront.ai/|Chat ForeFront AI|
 |            |https://www.typeform.com/|Type Form|
+|            |https://www.chatpdf.com                 |上传PDF文件，然后针对上传的PDF文件，可以和AI进行对话，获取PDF里面的信息|
 |            |https://github.com/lencx/ChatGPT        |ChatGPT Desktop Application (Mac, Windows and Linux)|
 |            |https://github.com/suno-ai/bark         |🔊 Text-Prompted Generative Audio Model|
 |            |https://github.com/Wechaty/wechaty      |Conversational RPA SDK for Chatbot Makers|
